@@ -1,9 +1,9 @@
-# mvc-web-cadastrodealunos
+ mvc-web-cadastrodealunos
 Esse projeto foi uma atividade para, usando o padrão MVC, criar um programa que consegue realizar o cadastro de alunos e depois exibe os cadastros.
 
-###Arquitetura MVC
+Arquitetura MVC
 
-##Model
+Model
 Aluno.java
 Responsável por representar a entidade Aluno e suas regras de negócio básicas, como a validação do nome.
 
