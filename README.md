@@ -48,7 +48,7 @@ src
 
 Como Executar
 1.Clone o repositório
-git clone 
+git clone https://github.com/ViniciusQueiroz1/mvc-web-cadastrodealunos
 2.Abra o projeto no VS Code
 3.Execute a classe MvcApplication
 4.Acesse no navegador
