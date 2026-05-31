@@ -52,4 +52,4 @@ git clone https://github.com/PedroTonon/mvc-web---cadastro-de-alunos
 2.Abra o projeto no VS Code
 3.Execute a classe MvcApplication
 4.Acesse no navegador
-http://localhost:8080/alunosgi
+http://localhost:8080/alunos
